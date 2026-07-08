@@ -159,7 +159,7 @@ The dashboard includes:
 
 
 
-## Tools \& Technologies
+## Tools & Technologies
 
 * Microsoft Excel
 
@@ -177,23 +177,23 @@ The dashboard includes:
 
 
 
-\## **Repository Structure**
+## **Repository Structure**
 
 
 
 ```text
 
-HR-Analytics-Dashboard/
+HR-Analytics-Dashboard
 
 │
 
-├── HR\_Capstone\_Completed\_Khadijat\_Oyedeji.xlsx
+├── HR_Capstone_Completed_Khadijat_Oyedeji.xlsx
 
 ├── README.md
 
-└── images/
+└── images
 
-&#x20;   └── HR\_Dashboard.png
+&#x20;   └── HR_Dashboard.png
 
 
 
