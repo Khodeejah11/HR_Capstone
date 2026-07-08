@@ -34,7 +34,7 @@ This project addresses these challenges by cleaning the dataset, enriching it wi
 
 
 
-\### **Phase 1: Data Cleaning**
+### **Phase 1: Data Cleaning**
 
 
 
@@ -70,113 +70,108 @@ Created new analytical variables including:
 
 **Key Excel functions used include:**
 
-\* XLOOKUP
+* XLOOKUP
 
-\* IF
+* IF
 
-\* DATEDIF
+* DATEDIF
 
-\* TODAY
+* TODAY
 
-\* CONCAT
+* CONCAT
 
-\* TRIM
+* TRIM
 
-\* PROPER
+* PROPER
 
-\* AVERAGE
+* AVERAGE
 
-\* COUNTIF
-
-
-
-\### **Phase 3: Exploratory Data Analysis**
-
+### **Phase 3: Exploratory Data Analysis**
 
 
 Pivot Tables were used to analyze:
 
-\* Employee headcount by department
+* Employee headcount by department
 
-\* Average salary by department
+* Average salary by department
 
-\* Performance by employment status
+* Performance by employment status
 
-\* Bonus payout by performance band
+* Bonus payout by performance band
 
-\* Attrition rate across departments
+* Attrition rate across departments
 
 
 
-\### **Phase 4: Dashboard Development**
+### **Phase 4: Dashboard Development**
 
 
 
 Designed an interactive HR dashboard featuring:
 
-\* 3 KPI Cards (Total Employees, Average Salary, and Overall Attrition Rate)
+* 3 KPI Cards (Total Employees, Average Salary, and Overall Attrition Rate)
 
-\* Pivot Charts
+* Pivot Charts
 
-\* Slicers for dynamic filtering
-
-
-
-\# **Key Insights**
-
-\* **Information Technology** employs the largest workforce (36), while **Finance** has the fewest employees (16).
-
-\* Although salary differences across departments are relatively small, **Sales** reports the highest average employee salary ($86,339), whereas **Operations** records the lowest ($80,052).
-
-\* **Active employees** consistently outperform employees who have left the organization, suggesting a possible relationship between employee engagement and retention.
-
-\* The **Achieving** performance band contributes the largest share of projected bonus payouts ($192,812), while employees classified as **Needs Improvement** are ineligible for bonuses.
-
-\* **Operations** experiences the highest attrition rate (38%), indicating potential retention challenges that may warrant further investigation.
+* Slicers for dynamic filtering
 
 
 
+# **Key Insights**
+
+* **Information Technology** employs the largest workforce (36), while **Finance** has the fewest employees (16).
+
+* Although salary differences across departments are relatively small, **Sales** reports the highest average employee salary ($86,339), whereas **Operations** records the lowest ($80,052).
+
+* **Active employees** consistently outperform employees who have left the organization, suggesting a possible relationship between employee engagement and retention.
+
+* The **Achieving** performance band contributes the largest share of projected bonus payouts ($192,812), while employees classified as **Needs Improvement** are ineligible for bonuses.
+
+* **Operations** experiences the highest attrition rate (38%), indicating potential retention challenges that may warrant further investigation.
 
 
-\## **Dashboard Features**
+
+
+
+## **Dashboard Features**
 
 
 
 The dashboard includes:
 
-\* Total Employees KPI
+* Total Employees KPI
 
-\* Average Salary KPI
+* Average Salary KPI
 
-\* Overall Attrition Rate KPI
+* Overall Attrition Rate KPI
 
-\* Employee Headcount by Department
+* Employee Headcount by Department
 
-\* Average Salary by Department
+* Average Salary by Department
 
-\* Performance by Employment Status
+* Performance by Employment Status
 
-\* Bonus Payout by Performance Band
+* Bonus Payout by Performance Band
 
-\* Attrition Rate by Department
+* Attrition Rate by Department
 
-\* Interactive slicers for dynamic analysis
+* Interactive slicers for dynamic analysis
 
 
 
-\## Tools \& Technologies
+## Tools \& Technologies
 
-\* Microsoft Excel
+* Microsoft Excel
 
-\* Pivot Tables
+* Pivot Tables
 
-\* Pivot Charts
+* Pivot Charts
 
-\* Excel Dashboard
+* Excel Dashboard
 
-\* Slicers
+* Slicers
 
-\* Lookup Tables
+* Lookup Tables
 
 
 
