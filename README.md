@@ -1,8 +1,8 @@
-\# **HR Analytics Dashboard using Microsoft Excel**
+# **HR Analytics Dashboard using Microsoft Excel**
 
 
 
-\## **Overview**
+## **Overview**
 
 
 
@@ -14,11 +14,11 @@ The project covers the complete analytics process, including data cleaning, tran
 
 
 
-!\[Dashboard Preview](HR\_Dasboard.png)
+![Dashboard Preview](HR_Dashboard.png)
 
 
 
-\## **Business Problem**
+## **Business Problem**
 
 
 
@@ -30,7 +30,7 @@ This project addresses these challenges by cleaning the dataset, enriching it wi
 
 
 
-\## **Project Workflow**
+## **Project Workflow**
 
 
 
@@ -38,33 +38,33 @@ This project addresses these challenges by cleaning the dataset, enriching it wi
 
 
 
-\* Removed duplicate employee records.
+* Removed duplicate employee records.
 
-\* Standardized text values and data formats.
+* Standardized text values and data formats.
 
-\* Handled missing values.
+* Handled missing values.
 
-\* Resolved department codes using lookup tables.
+* Resolved department codes using lookup tables.
 
-\* Corrected inconsistent employment status entries.
+* Corrected inconsistent employment status entries.
 
 
 
-\### **Phase 2: Data Transformation**
+### **Phase 2: Data Transformation**
 
 
 
 Created new analytical variables including:
 
-\* Full Name
+* Full Name
 
-\* Department Name
+* Department Name
 
-\* Years of Service
+* Years of Service
 
-\* Performance Band
+* Performance Band
 
-\* Eligible Bonus Amount
+* Eligible Bonus Amount
 
 
 
